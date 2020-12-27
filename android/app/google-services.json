@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534844709679",
+    "firebase_url": "https://push-notification-flutte-a18ee.firebaseio.com",
+    "project_id": "push-notification-flutte-a18ee",
+    "storage_bucket": "push-notification-flutte-a18ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534844709679:android:026823036b9b9edef15fda",
+        "android_client_info": {
+          "package_name": "net.nick45chen.notification_sample_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534844709679-csaqhvdeojdr369f9n1653gj0ga8obj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgV2rE6lvjDcMB8rqJlXecuIUxr78MTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534844709679-csaqhvdeojdr369f9n1653gj0ga8obj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
